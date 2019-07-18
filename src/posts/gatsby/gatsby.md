@@ -5,6 +5,8 @@ date: "2019-07-02"
 
 I just launched a new bootcamp!
 
+![Grass]( ./grass.jpg )
+
 ## Topis Covered
 
 1.Gatsby
