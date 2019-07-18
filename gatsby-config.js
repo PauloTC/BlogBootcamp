@@ -10,6 +10,13 @@ module.exports = {
     author: 'Paulo Tejada!'
   },
   plugins: [
+    {
+      resolve: 'gatsby-source-contentful',
+      options: {
+          spaceId: '4r8ocn3hwnpa',
+          accessToken: 'XDdZhnflsxPGo0i7YWXKCQ9_zoYTSAnuclYpeO_oJQk'
+      }
+    },
     'gatsby-plugin-sass',
     {
       resolve: 'gatsby-source-filesystem',
